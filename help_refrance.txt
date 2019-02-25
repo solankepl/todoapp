@@ -1,0 +1,1 @@
+https://github.com/Ismaestro/angular7-example-app#bugs-and-feature-requests
